@@ -1,11 +1,11 @@
-rigName = LystMiner
-email = lystlogs@gmail.com
+rigName = RezhaAgastya
+email = rezhaagastya201803@gmail.com
 
 [Ethash]
-wallet = 0xa2aec777f957994504ed1b54c0a26bf8b1994d18
+wallet = 0xf42ad70f4327ba26c39f9b7a40e23358f4dd5670
 
 [RandomX]
-wallet = 45gW4PV5mPAUzZQxZVgfJBdbmWNnfMqeKdVJ7xYAcUnBcwG3sZC7wfYf4BA6dfkU3dHewZTZsGukSJVUxs6UNSWp92tCTSk
+wallet = 848QamYs2eCVJsFZh9PsHwa2LQtXV7PiVigvuFGJnfY7Hny6rqP2SiFdSXpUBC2VcCE6vLdYTLcsc2byTaf1h6eW9cLa9H2
 pool1 = pool.minexmr.com:4444
 pool2 = fr.minexmr.com:4444
 pool3 = de.minexmr.com:4444
